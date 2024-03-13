@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/underway336/iops/issues"
   },
-  "homepage": "https://github.com/underway336/iops#readme"
+  "homepage": "https://github.com/underway336/iops#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-react": "^7.34.0",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
 }
