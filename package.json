@@ -30,6 +30,7 @@
   "dependencies": {
     "express": "^4.18.3",
     "mongodb": "^6.5.0",
-    "mongodb-core": "^3.2.7"
+    "mongodb-core": "^3.2.7",
+    "mongoose": "^8.2.1"
   }
 }
