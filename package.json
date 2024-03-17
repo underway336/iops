@@ -1,7 +1,7 @@
 {
   "name": "psyexlib",
   "version": "1.0.0",
-  "description": "Instrumentarium of psychological support",
+  "description": "Library of exercises, psychologist's tools",
   "type": "module",
   "main": "app.js",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/underway336/iops.git"
+    "url": "git+ssh://git@github.com/underway336/psyexlib.git"
   },
   "author": "Andrew Sergienko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/underway336/iops/issues"
+    "url": "https://github.com/underway336/psyexlib/issues"
   },
-  "homepage": "https://github.com/underway336/iops#readme",
+  "homepage": "https://github.com/underway336/psyexlib#readme",
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-config-airbnb": "^19.0.4",
