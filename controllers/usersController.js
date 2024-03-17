@@ -2,7 +2,7 @@ import connection from '../database/db.js';
 import status from '../response.js';
 
 export function users(req, res) {
-  connection.query('SELECT * FROM `users`', (error, rows, fields) => {
+  connection.query('SELECT * FROM `users`', (error, rows) => {
     if (error) {
       console.log(error);
     } else {
